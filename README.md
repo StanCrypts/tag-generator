@@ -5,11 +5,11 @@ Ideal for organizing image datasets for LoRAs training, Stable Diffusion, or sim
 
 ## Features
 
-- **Automatic Detection**: Identify content and characters in images.
-- **Batch Processing**: Process hundreds of images at once.
-- **Intelligent**: Skips files that have already been processed to save time.
-- **Resilient**: Continues the process even if an image fails.
-- **Reports**: Displays success and failure statistics at the end.
+**Automatic Detection**: Identify content and characters in images.
+**Batch Processing**: Process hundreds of images at once.
+**Intelligent**: Skips files that have already been processed to save time.
+**Resilient**: Continues the process even if an image fails.
+**Reports**: Displays success and failure statistics at the end.
 
 ## How to use
 
